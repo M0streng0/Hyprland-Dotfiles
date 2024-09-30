@@ -100,6 +100,8 @@ linkDots() {
         ["${GITPATH}/Dotfiles/scripts/disable-monitor.sh"]="${USER_HOME}/.config/scripts/disable-monitor.sh"
         ["${GITPATH}/Dotfiles/scripts/git-obsidian.sh"]="${USER_HOME}/.config/scripts/git-obsidian.sh"
         ["${GITPATH}/Dotfiles/scripts/low-power.sh"]="${USER_HOME}/.config/scripts/low-power.sh"
+        ["${GITPATH}/Dotfiles/scripts/wallpaper.sh"]="${USER_HOME}/.config/scripts/wallpaper.sh"
+        ["${GITPATH}/Dotfiles/scripts/mp4togif.sh"]="${USER_HOME}/.config/scripts/mp4tofig.sh"
         ["${GITPATH}/Dotfiles/scripts/xp-pen/cycle-colors.sh"]="${USER_HOME}/.config/scripts/xp-pen/cycle-colors.sh"
         ["${GITPATH}/Dotfiles/scripts/xp-pen/cycle-workspaces.sh"]="${USER_HOME}/.config/scripts/xp-pen/cycle-workspaces.sh"
     )
